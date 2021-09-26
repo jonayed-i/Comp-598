@@ -1,0 +1,2 @@
+#Jonayed Islam 260930902
+Many of the tweets mention @realDonaldTrump. However, since Trump is not a separate word we do not count those instances. Our result of 2.2% is less than the 4% if we look at all tweets containing Trump no matter what comes before or after. 
